@@ -50,5 +50,5 @@ The clustering algorithm requires massive computations, with distance between ea
 
 ## Read More
 
-For more information regarding parallelization strategies and results, read the report [K-means Clustering Report](). 
+For more information regarding parallelization strategies and results, read the report [K-means Clustering Report](https://github.com/arnavjain2710/Parallel-K-Means-Clustering-Algorithm/blob/main/CS359%20Project%20report.pdf). 
 
